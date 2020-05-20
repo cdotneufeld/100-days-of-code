@@ -23,9 +23,8 @@
 
 ### Day 1: May 19, 2020 - Monday
 
-**Today's Progress**: Started working through Automate The Boring Stuff With Python.  
+**Today's Progress**: Started working through Automate The Boring Stuff With Python.  Installed Python, configured my environment, and finished page 13
 
-**Thoughts**:
+**Thoughts**: Now that my environment is setup, I'll be able to get to coding faster. 
 
-
-**Link(s) to work**:
+**Link(s) to work**: None today.

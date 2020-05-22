@@ -21,10 +21,18 @@
 **Link(s) to work**: 
 
 
-### Day 1: May 19, 2020 - Monday
+### Day 1: May 19, 2020 - Tuesday
 
 **Today's Progress**: Started working through Automate The Boring Stuff With Python.  Installed Python, configured my environment, and finished page 13
 
 **Thoughts**: Now that my environment is setup, I'll be able to get to coding faster. 
 
 **Link(s) to work**: None today.
+
+### Day 2: May 21, 2020 - Thursday
+
+**Today's Progress**: Finished Chapter 1 of Automate The Boring Stuff With Python.
+
+**Thoughts**: Learned about strings, integers, and float points. Learned print, len, and input functions.
+
+**Link(s) to work**: None today. 
